@@ -1,6 +1,6 @@
 # MoDsl
 
-[![Rust](https://github.com/your-username/modsl/actions/workflows/rust.yml/badge.svg)](https://github.com/your-username/modsl/actions/workflows/rust.yml)
+[![Rust](https://github.com/jigglypop/modsl/actions/workflows/rust.yml/badge.svg)](https://github.com/jigglypop/modsl/actions/workflows/rust.yml)
 
 **MoDsl**은 "five times the sum of two and three"와 같이, 사람이 사용하는 자연어를 컴퓨터가 이해할 수 있는 수학적 표현으로 변환하는 Rust 기반의 DSL(Domain-Specific Language)입니다.
 

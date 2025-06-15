@@ -1,0 +1,10 @@
+[package]
+name = "modsl"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "modsl"
+path = "src/main.rs"
+
+[dependencies]
